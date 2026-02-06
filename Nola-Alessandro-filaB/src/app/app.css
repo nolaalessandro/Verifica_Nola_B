@@ -1,0 +1,10 @@
+.red { color: red; font-weight: bold; }
+.blue { color: #00bcd4; }
+.green { color: #4caf50; }
+.orange { color: #ff9800; }
+
+.container {
+  background-color: #00bcd4; 
+  padding: 20px;
+  min-height: 100vh;
+}
